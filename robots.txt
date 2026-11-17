@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationaurora.com/sitemap.xml
